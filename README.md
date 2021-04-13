@@ -17,3 +17,5 @@ To use inside of Houdini, install the script to this directory:
 houdini18.5/scripts/python
 ```
 If the directory does not exist, create it.
+
+![Install Location](https://user-images.githubusercontent.com/26001129/114502435-5d3bef80-9c5e-11eb-9012-3f72d05eb314.JPG)
