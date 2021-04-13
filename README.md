@@ -10,7 +10,7 @@
 ## General Info
 A simple python script to track render times in Houdini
  
-The script can be run basically anywhere, but it was created with rendering out Geometry primarily, as you can add metadata inside of image files, saying render times and such.
+The script can be run basically anywhere, but it was created with rendering out Geometry in mind, as you can add metadata inside of image files, saying render times and such.
 
 Tested on Houdini 18.5 - Windows 10.
 
